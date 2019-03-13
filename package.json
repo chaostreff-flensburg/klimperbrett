@@ -1,0 +1,14 @@
+{
+  "name": "klimperbrett",
+  "version": "0.1.0",
+  "description": " ready to klimper with the floppy on a brett ? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "serialport": "^7.1.4"
+  }
+}
